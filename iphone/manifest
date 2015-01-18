@@ -2,12 +2,12 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0.0
+version: 1.1.0
 apiversion: 2
 description: TiUIDocumentInteractionController
-author: Your Name
-license: Specify your license
-copyright: Copyright (c) 2014 by Your Company
+author: Marcel Pociot
+license: MIT
+copyright: Copyright (c) 2014-2015 Marcel Pociot
 
 # these should not be edited
 name: TiUIDocumentInteractionController
@@ -15,3 +15,4 @@ moduleid: de.marcelpociot.documentinteraction
 guid: fd264c39-d7f4-417b-8a3c-dcfaaba35137
 platform: iphone
 minsdk: 3.4.0.GA
+architectures: armv7 i386 x86_64 arm64

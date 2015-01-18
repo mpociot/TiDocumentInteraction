@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E0B432D-989A-4E4F-8631-1669D104AD12</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiUIDocumentInteractionController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>91C51A1EA9F753F288A977795A08AB427CC3B4BC</key>
+		<string>github.com:mpociot/TiDocumentInteraction.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iphone/TiUIDocumentInteractionController.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>91C51A1EA9F753F288A977795A08AB427CC3B4BC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mpociot/TiDocumentInteraction.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>91C51A1EA9F753F288A977795A08AB427CC3B4BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>91C51A1EA9F753F288A977795A08AB427CC3B4BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiDocumentInteraction</string>
+		</dict>
+	</array>
+</dict>
+</plist>
